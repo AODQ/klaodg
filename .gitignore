@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+klaodg.so
+klaodg.dylib
+klaodg.dll
+klaodg.a
+klaodg.lib
+klaodg-test-*
+*.exe
+*.o
+*.obj
+*.lst
